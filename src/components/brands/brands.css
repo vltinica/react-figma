@@ -1,0 +1,14 @@
+.brands {
+  width: 1920px;
+  height: 186px;
+  margin: 0 auto;
+  padding: 60px 0 55px;
+  background-color: var(--yellow);
+}
+
+.brands__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  mix-blend-mode: multiply;
+}
